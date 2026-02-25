@@ -8,12 +8,12 @@
 
 ---
 
-### 🚀 Sobre mí
-Soy un desarrollador enfocado en construir aplicaciones modernas y eficientes. Mi stack incluye desde el desarrollo móvil multiplataforma hasta soluciones robustas en el backend y herramientas de diseño.
+### 🚀 About Me
+I am a developer focused on building modern and efficient applications. My stack ranges from cross-platform mobile development to robust backend solutions and design tools.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🛠️ My Tech Stack
 
 #### 🔧 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,5 +48,5 @@ Soy un desarrollador enfocado en construir aplicaciones modernas y eficientes. M
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
