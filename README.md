@@ -46,7 +46,7 @@ I am a developer focused on building modern and efficient applications. My stack
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeValenciaC&theme=radical" alt="GitHub Streak" />
 </p>
